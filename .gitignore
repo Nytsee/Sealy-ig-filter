@@ -1,0 +1,5 @@
+*.zip
+*.sass-cache
+*.exe
+*node_modules
+*.ai
